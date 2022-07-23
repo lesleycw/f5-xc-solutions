@@ -1,5 +1,5 @@
-Configure Route(s) by Hostname
-==============================
+[Cert] Configure Route(s) by Hostname
+========================================
 This article provides guidance to configure routes based on hostname within the F5 Distributed Cloud (F5 XC) Platform.  The steps outlined below will leverage "simple routes" though similar configurations can also be accomplished with other route types depending on deployment requirements. 
 
 .. note:: 
@@ -8,6 +8,7 @@ This article provides guidance to configure routes based on hostname within the 
 Prerequisites
 -------------
 * All configurations are performed through the *F5 Distributed Cloud Console*.
+* HTTP Load Balancer Configuration
 * Navigation: *Load Balancers > Manage > Load Balancers > HTTP Load Balancers*
 
 Steps
