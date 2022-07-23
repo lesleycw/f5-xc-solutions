@@ -7,7 +7,7 @@ Readers are encourgaed to file issues in the supporting Devcentral Github reposi
 .. _How To: https://docs.cloud.f5.com/docs/how-to
 
 Platform Configurations
------------------------
+^^^^^^^^^^^^^^^^^^^^^^^
 .. toctree::
    :maxdepth: 1
    :glob:
@@ -15,7 +15,7 @@ Platform Configurations
    platform/*
 
 Security Configurations
------------------------
+^^^^^^^^^^^^^^^^^^^^^^^
 .. toctree::
    :maxdepth: 1
    :glob:
