@@ -13,9 +13,9 @@ Solutions
    :maxdepth: 1
    :glob:
    
-   platform/*.rst
-   security/*.rst
-   multi-cloud/*.rst
-   appstack/*.rst
-   automation/*.rst
+   platform/*
+   security/*
+   multi-cloud/*
+   appstack/*
+   automation/*
      
