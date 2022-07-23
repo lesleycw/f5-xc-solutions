@@ -6,40 +6,40 @@ Readers are encourgaed to file issues in the supporting Devcentral Github reposi
 
 .. _How To: https://docs.cloud.f5.com/docs/how-to
 
-Platform Configurations/Solutions
----------------------------------
+Platform Configurations
+-----------------------
 .. toctree::
    :maxdepth: 1
    :glob:
    
    platform/*
 
-Security Configurations/Solutions
----------------------------------
+Security Configurations
+-----------------------
 .. toctree::
    :maxdepth: 1
    :glob:
    
    security/*
 
-Multi-Cloud Networking Configurations/Solutions
------------------------------------------------
+Multi-Cloud Networking Configurations
+-------------------------------------
 .. toctree::
    :maxdepth: 1
    :glob:
    
    multi-cloud/*
 
-AppStack & Kubernetes Configurations/Solutions
-----------------------------------------------
+AppStack & Kubernetes Configurations
+------------------------------------
 .. toctree::
    :maxdepth: 1
    :glob:
    
    appstack/*
 
-Automation  Examples
---------------------
+Automation Examples
+-------------------
 .. toctree::
    :maxdepth: 1
    :glob:
